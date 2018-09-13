@@ -10,6 +10,7 @@ namespace HW7
     {
         static void Main(string[] args)
         {
+            Console.ReadKey();
         }
     }
 }
